@@ -1,6 +1,6 @@
 # Agent-Based Simulation: Analisis Penggunaan Ruang Parkir Kampus
 
-Proyek ini merupakan simulasi berbasis agen (Agent-Based Modeling) yang dikembangkan untuk menganalisis dinamika ketersediaan ruang parkir di lingkungan kampus Universitas Telkom Simulasi ini. memungkinkan analisis pengaruh jumlah kendaraan, durasi parkir, dan tata letak area terhadap efisiensi pencarian slot parkir secara realistis.
+Proyek ini merupakan simulasi berbasis agen (Agent-Based Modeling) yang dikembangkan untuk menganalisis dinamika ketersediaan ruang parkir di lingkungan kampus Universitas Telkom. Simulasi ini memungkinkan analisis pengaruh jumlah kendaraan, durasi parkir, dan tata letak area terhadap efisiensi pencarian slot parkir secara realistis.
 ## 🛠️ Platform & Tools
 * **Software:** NetLogo 6.x 
 * **Metode:** Agent-Based Modeling (ABM) 
